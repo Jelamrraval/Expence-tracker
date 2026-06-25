@@ -38,6 +38,28 @@ The main objective of this project is to provide an easy-to-use platform for man
 - Email notifications and reminders
 - Mobile application support
 
+## Installation
+
+1. Clone the repository
+
+git clone <repository-link>
+
+2. Navigate to the project folder
+
+cd Expense-Tracker
+
+3. Install dependencies
+
+pip install -r requirements.txt
+
+4. Run the application
+
+python app.py
+
+5. Open in browser
+
+http://127.0.0.1:5000
+
 ## Author
 Jelam Raval
 Diploma Computer Engineering Student
