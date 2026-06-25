@@ -58,4 +58,5 @@ The main objective of this project is to provide an easy-to-use platform for man
 ## Author
 
 Jelam Raval
+
 Diploma Computer Engineering Student
