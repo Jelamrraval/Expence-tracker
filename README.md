@@ -25,19 +25,7 @@ Expense Tracker is a web-based application developed to help users manage their 
 The main objective of this project is to provide an easy-to-use platform for managing personal finances, tracking expenses, and helping users make informed financial decisions through organized record keeping.
 
 ## Installation
-1. Clone the repository.
-2. Install required dependencies.
-3. Run database migrations.
-4. Start the Django development server.
-5. Open the application in your web browser.
 
-## Future Enhancements
-- Expense analytics and charts
-- Monthly budget planning
-- Export reports to PDF/Excel
-- Email notifications and reminders
-- Mobile application support
-
-## Author
-Jelam Raval
-Diploma Computer Engineering Student
+1. Clone the repository:
+   ```bash
+   git clone <repository-link>
